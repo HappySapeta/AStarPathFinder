@@ -1,0 +1,28 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AStarPathFinder",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Anupam Sahu",
+	"CreatedByURL": "https://github.com/AnupamSahu",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AStarPathFinder",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "AStarNavVolume",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
